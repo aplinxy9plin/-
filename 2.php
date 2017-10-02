@@ -28,7 +28,7 @@
 			echo "N\n";
 		}
 		if($dots[4] > $dots[2]){
-			echo "NE";
+			echo "NE\n";
 		}
 	}
 	// Юг
